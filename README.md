@@ -1,6 +1,7 @@
 ![Midichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=8282qwe&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8282qwe&layout=compact&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
 <!--
 **8282qwe/8282qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
