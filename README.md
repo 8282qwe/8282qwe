@@ -1,4 +1,4 @@
-### Hi there 👋
+![Midichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=8282qwe&show_icons=true&theme=dark)
 
 <!--
 **8282qwe/8282qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
