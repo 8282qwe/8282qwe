@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=JangWoo's%20Git&fontSize=50&animation=fadeIn)
 
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8282qwe&layout=compact&theme=dark)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8282qwe&layout=compact&theme=dark)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=8282qwe&repo=zoas)](https://github.com/8282qwe/zoas)
 </div>
 
 
