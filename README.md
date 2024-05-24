@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=JangWoo's%20Git&fontSize=50&animation=fadeIn)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)
+<div align="center">
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8282qwe&layout=compact&theme=dark)
+</div>
 
 
 <!--
