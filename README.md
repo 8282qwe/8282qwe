@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=8282qwe)](https://solved.ac/8282qwe)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8282qwe&layout=compact&theme=dark)
 
 
