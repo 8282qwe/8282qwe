@@ -42,7 +42,7 @@
 <div align="center" >
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=8282qwe&repo=zoas)](https://github.com/8282qwe/zoas)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=8282qwe&repo=FamilyConnect)](https://github.com/8282qwe/FamilyConnect)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=8282qwe&repo=Nangman_Doctor)](https://github.com/8282qwe/Nangman_Doctor)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=8282qwe&repo=Korean_interprinter)](https://github.com/8282qwe/Korean_interprinter)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=8282qwe&repo=Bustour)](https://github.com/8282qwe/Bustour)
 
