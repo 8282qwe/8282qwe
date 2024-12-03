@@ -38,6 +38,9 @@
   
 </div>
 
+  + ### Team Project!
+    + [Spring Cloud를 활용한 MSA아키텍처 기반의 냉장고 관리 웹/앱](https://github.com/1ceOut)
+
 ## ⚡Pin!
 <div align="center" >
 
